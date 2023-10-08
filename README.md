@@ -1,7 +1,7 @@
 # Database_management_optimization
 Example of database optimisation with several input files and error checking 
 
-My goal
+My goal was to merge the three files, do some initial performance analysis and finally check that there were no errors.
 
 
 ## Technologies
@@ -12,3 +12,6 @@ My goal
 
 ## File contents
 - Access the CSV files in the data :
+  * **[erp.xlxs](https://github.com/Antonbrg/Database_management_optimization/tree/main/data/erp.xlxs)**
+  * **[erp.xlxs](https://github.com/Antonbrg/Database_management_optimization/tree/main/data/liaison.xlxs)**
+  * **[erp.xlxs](https://github.com/Antonbrg/Database_management_optimization/tree/main/data/web.xlxs)**
