@@ -13,5 +13,5 @@ My goal was to merge the three files, do some initial performance analysis and f
 ## File contents
 - Access the CSV files in the data :
   * **[erp.xlxs](https://github.com/Antonbrg/Database_management_optimization/tree/main/data/erp.xlxs)**
-  * **[erp.xlxs](https://github.com/Antonbrg/Database_management_optimization/tree/main/data/liaison.xlxs)**
-  * **[erp.xlxs](https://github.com/Antonbrg/Database_management_optimization/tree/main/data/web.xlxs)**
+  * **[liaison.xlxs](https://github.com/Antonbrg/Database_management_optimization/tree/main/data/liaison.xlxs)**
+  * **[web.xlxs](https://github.com/Antonbrg/Database_management_optimization/tree/main/data/web.xlxs)**
